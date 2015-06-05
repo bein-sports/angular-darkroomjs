@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "darkroomjs": "*",
+    "darkroomjs": "bein-sports/darkroomjs#v2",
     "angular": "1.3.4",
     "fabric": "1.4.0"
   },
